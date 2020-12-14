@@ -1,0 +1,35 @@
+.quote {
+display:block;
+    height: 20px;
+    margin: auto;
+    background-color: #9AE343;
+    font-size: 20px;
+}
+button {
+    
+    height: 35px;
+    font-family: 'Special Elite', cursive;
+}
+
+
+body {
+font-family: 'Courier Prime', monospace;
+  padding: 20px;
+  width: 900px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+background-image: url("https://64.media.tumblr.com/1969cdd0128b585cce8e80acfb9244b5/tumblr_p4d6wiNcYG1x3vc7jo6_500.gifv");
+
+}
+
+button:hover {
+    background-color: #DEE343;
+    
+}
+
+.show {
+margin-top: 40px;
+font-size: 25px;
+}
+
